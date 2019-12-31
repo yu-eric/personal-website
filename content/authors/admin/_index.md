@@ -22,6 +22,7 @@ bio: I am an undergraduate currently attending the University of Utah.
 
 interests:
 - Synthetic Biology
+- Hardware
 
 
 education:
