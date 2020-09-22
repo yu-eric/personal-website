@@ -6,39 +6,13 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-I am a second-year undergraduate currently attending the University of Utah.
+I am a second-year undergraduate currently studing Computer Science the University of Utah.
 
 ## Research Interest
 
-My current research interests include synthetic biology and 
+I am interested in synthetic biology and distributed search. My current focuses include implementation of genetic sequence search tools.
 
-## Publications
 
-In chronological order:
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+## Hobbies
+I love to ski and hike the gorgeous mountains of Utah, and I enjoy playing and watching tennis.
+My other hobbies include playing chess and building scale models.

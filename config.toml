@@ -8,9 +8,7 @@ enableEmoji = true
   author = "Eric Yu"
   description = "My personal site"
   favicon = "favicon.ico"
-  [params.footer]
-    text = "Github"
-    url = "https://github.com/yu-eric"
+
 
 [permalinks]
   "/" = "/:filename"
