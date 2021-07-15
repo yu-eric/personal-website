@@ -6,7 +6,7 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-I am a senior undergraduate currently majoring in Computer Science with a minor in Mathematics the University of Utah.
+I am a senior undergraduate studying at the University of Utah, currently majoring in Computer Science with a minor in Mathematics.
 
 ## Research Interest
 
