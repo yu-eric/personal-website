@@ -6,13 +6,13 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-I am a senior undergraduate studying at the University of Utah, currently majoring in Computer Science with a minor in Mathematics.
+I am a currently working as a backend software engineer at [Creative Juice](https://www.getjuice.com/). I graduated from the University of Utah in 2022 with a Bachelor's in Computer Science, minoring in Mathematics.
 
-## Research Interest
+## Research
 
-I am working with [Dr. Chris Myers](https://www.colorado.edu/ecee/chris-myers) at the [Genetic Logic Lab](http://geneticlogiclab.org/). My current focuses include large scale genetic data repositories and search methods for genetic sequences. Currently, my research is focused on implementing a new distributed DNA repository for synthetic biologists.
+I worked with [Dr. Chris Myers](https://www.colorado.edu/ecee/chris-myers) at the [Genetic Logic Lab](http://geneticlogiclab.org/) for four years during my undergraduate studies. My focuses included large scale genetic data repositories and search methods for genetic sequences.
 
 
 ## Hobbies
 I love to do anything outdoors in the great state of Utah, such as hiking, rock climbing, fishing, backpacking, or skiing.
-My other hobbies include reading (currently on the ASOIAF series) and photography.
+My other hobbies include reading (currently on the Dark Tower series) and photography.
