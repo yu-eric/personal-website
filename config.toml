@@ -3,6 +3,7 @@ baseURL = "/"
 theme = "researcher"
 disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]
 enableEmoji = true
+uglyURLs = true
 
 [params]
   author = "Eric Yu"
