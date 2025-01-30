@@ -6,11 +6,13 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-I am a former software engineer at [Creative Juice](https://www.getjuice.com/). I graduated from the University of Utah in 2022 with a Bachelor's in Computer Science with a minor in Mathematics.
+I am currently enrolled at the University College of London (UCL) for a Masters of Science in Software Systems Engineering.
 
-## Research
+Previously, I worked as a Software Engineer at [Creative Juice](https://www.getjuice.com/). 
 
-I worked with [Dr. Chris Myers](https://www.colorado.edu/ecee/chris-myers) at the [Genetic Logic Lab](http://geneticlogiclab.org/) for four years during my undergraduate studies. My focuses included large scale genetic data repositories and search methods for genetic sequences.
+## Education and Research
+
+I graduated from the University of Utah in 2022 with a Bachelor's in Computer Science with a minor in Mathematics. I worked with [Dr. Chris Myers](https://www.colorado.edu/ecee/chris-myers) at the [Genetic Logic Lab](http://geneticlogiclab.org/) during my undergraduate studies. My focuses included large scale genetic data repositories and search methods for genetic sequences.
 
 ## Publications
 1. **Yu, E.**, Mante, J., and Myers, C. J. (2022) Sequence-based searching for synbiohub using VSEARCH. ACS Synthetic Biology 11, 990–995.
@@ -22,4 +24,4 @@ I worked with [Dr. Chris Myers](https://www.colorado.edu/ecee/chris-myers) at th
 3. Sequence-based Searching For SynBioHub Using VSEARCH, *The Twelfth International Workshop on Bio-Design Automation*, Virtual, Aug. 2020
 
 ## Hobbies
-I love to do anything outdoors, such as backpacking, rock climbing, fishing, mountain biking, or skiing.
+I love to spend my free time outdoors, whether it be backpacking, rock climbing, fishing, mountain biking, or [skiing](https://www.youtube.com/watch?v=N9IFwDykJag).
