@@ -6,9 +6,9 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-I am currently enrolled at the University College of London (UCL) for a Masters of Science in Software Systems Engineering.
+I am a graduate student currently enrolled at the University College of London (UCL) for a Masters of Science in Software Systems Engineering. My current courses include Software Validation & Verification, Engineering Ethics, and Data Engineering / MLOps Pipelines.
 
-Previously, I worked as a Software Engineer at [Creative Juice](https://www.getjuice.com/). 
+Previously, I worked as a Software Engineer at [Creative Juice](https://www.linkedin.com/company/getcreativejuice/). 
 
 ## Education and Research
 
